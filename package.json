@@ -1,0 +1,21 @@
+{
+  "name": "metrics-d3-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js;"
+  },
+  "devDependencies": {
+    "prettier": "^2.1.2"
+  },
+  "author": "5AMU3L",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.843.0",
+    "axios": "^0.21.1",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
+}
